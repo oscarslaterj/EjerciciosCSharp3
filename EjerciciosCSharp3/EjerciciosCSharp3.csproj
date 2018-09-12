@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Capitulo 9\Cap9_Ejercicio1.cs" />
+    <Compile Include="Capitulo 9\Cap9_Ejercicio3.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">

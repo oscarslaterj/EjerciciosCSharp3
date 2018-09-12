@@ -49,6 +49,7 @@
     <Compile Include="Capitulo 10\Cap10_Ejercicio1.cs" />
     <Compile Include="Capitulo 10\Cap10_Ejercicio3.cs" />
     <Compile Include="Capitulo 10\Cap10_Ejercicio2.cs" />
+    <Compile Include="Capitulo 10\Cap10_Ejercicio4.cs" />
     <Compile Include="Capitulo 9\Cap9_Ejercicio1.cs" />
     <Compile Include="Capitulo 9\Cap9_Ejercicio3.cs" />
     <Compile Include="Capitulo 9\Cap9_Ejercicio4.cs" />

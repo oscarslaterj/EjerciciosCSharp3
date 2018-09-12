@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EjerciciosCSharp3.Capitulo_10
 {
-    public class Cap1_Ejercicio2
+    public class Cap10_Ejercicio2
     {
         public class Estudiante
         {
